@@ -28,8 +28,8 @@ Steps to Run Web App
 <img src="./images/web_app.PNG" >
 
 5. Expand the graph to view exact predicted values for next 12hrs
-    x-axis -> Trend, Predicted
-    y-axis -> Crypto in INR
+x-axis -> Trend, Predicted
+y-axis -> Crypto in INR
 
 <img src="./images/stock_chart.png" >
 
