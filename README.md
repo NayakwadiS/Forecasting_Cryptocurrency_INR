@@ -12,7 +12,7 @@ Introduction
 ============
 * Project performs forecasting by using different Time Series algorithms.
 * Performs Next 12 hours forecasting on live crypto data.
-* Supported Cryptocurrencies - BTC-INR, ETH-INR, LTC-INR 
+* Supported Cryptocurrencies - BTC-INR, ETH-INR, LTC-INR, BNB-INR, DOGE-INR, USDC-INR
 
 Installation
 =============
@@ -39,6 +39,6 @@ This project gives an idea about Crypto forecasting and should not be considered
 
 To Do
 ================
-Addition of more algorithms and Cryptos.
+Addition of more algorithms.
 
 
