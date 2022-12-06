@@ -1,4 +1,5 @@
 function show_plot() {
+    document.getElementById("loader").style.display="block";
     var ticker = document.getElementById("ticker").value;
     var type = document.getElementById('type').value;
     var dataPoints = [];
@@ -43,7 +44,7 @@ function show_plot() {
   });
 
   $.get("http://localhost:5000/getJson/"+ticker, function(data) {
-
+    document.getElementById("loader").style.display="none";
     for(var i = 0; i < data[0].length; i++){
       dataPoints.push({x: new Date(data[0][i].date), y: Number(data[0][i].close)});
     }
