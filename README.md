@@ -1,7 +1,7 @@
-Predict Cryptocurrency in INR
+Forcasting Cryptocurrency in INR
 =====================
 
-This Project shows prediction of Cryptocurrencies in Indian Rupees.
+This Project shows forecasting of Cryptocurrencies in Indian Rupees.
 
 ![Python](https://img.shields.io/badge/Python-v3.8%2B-blue.svg)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
